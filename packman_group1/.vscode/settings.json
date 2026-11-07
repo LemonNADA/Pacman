@@ -1,0 +1,4 @@
+{   
+    "python.envFile": "${workspaceFolder}/game/.env",
+    "python.analysis.extraPaths": ["./game/modules", "./game/scenes", "./game/controller"],
+}
